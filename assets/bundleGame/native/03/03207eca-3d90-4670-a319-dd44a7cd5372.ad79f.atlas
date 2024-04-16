@@ -1,0 +1,20 @@
+
+weixiaobao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi
+  rotate: false
+  xy: 2, 2
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+jinguang
+  rotate: true
+  xy: 2, 43
+  size: 157, 352
+  orig: 157, 352
+  offset: 0, 0
+  index: -1

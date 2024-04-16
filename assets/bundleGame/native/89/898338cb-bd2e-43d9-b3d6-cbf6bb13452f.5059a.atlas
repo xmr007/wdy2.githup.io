@@ -1,0 +1,20 @@
+
+zhongdu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duwu
+  rotate: false
+  xy: 2, 46
+  size: 284, 325
+  orig: 284, 325
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

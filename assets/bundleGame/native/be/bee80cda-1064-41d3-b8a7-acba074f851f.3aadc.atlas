@@ -1,0 +1,222 @@
+
+ouyangfeng.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke/Smoke_0
+  rotate: false
+  xy: 2, 1554
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_10
+  rotate: false
+  xy: 1296, 1554
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_12
+  rotate: false
+  xy: 2, 72
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_14
+  rotate: false
+  xy: 649, 566
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_16
+  rotate: false
+  xy: 1296, 1060
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_18
+  rotate: false
+  xy: 649, 72
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_2
+  rotate: false
+  xy: 2, 1060
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_20
+  rotate: false
+  xy: 1296, 566
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_22
+  rotate: false
+  xy: 1296, 72
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_4
+  rotate: false
+  xy: 649, 1554
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_6
+  rotate: false
+  xy: 2, 566
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_8
+  rotate: false
+  xy: 649, 1060
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+qingwa_tou
+  rotate: false
+  xy: 1943, 1701
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+qingwa_youjiao
+  rotate: true
+  xy: 96, 4
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+qingwa_youshou
+  rotate: true
+  xy: 2, 2
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+qingwa_zuojiao
+  rotate: false
+  xy: 1943, 1791
+  size: 71, 122
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+qingwa_zuoshou
+  rotate: false
+  xy: 1943, 1915
+  size: 93, 131
+  orig: 93, 131
+  offset: 0, 0
+  index: -1
+
+ouyangfeng2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke/Smoke_24
+  rotate: false
+  xy: 2, 1484
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_26
+  rotate: false
+  xy: 2, 990
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_28
+  rotate: false
+  xy: 649, 1484
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_30
+  rotate: false
+  xy: 2, 496
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_32
+  rotate: false
+  xy: 649, 990
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_34
+  rotate: false
+  xy: 1296, 1484
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_36
+  rotate: false
+  xy: 2, 2
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_38
+  rotate: false
+  xy: 649, 496
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_40
+  rotate: false
+  xy: 1296, 990
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+Smoke/Smoke_42
+  rotate: false
+  xy: 649, 2
+  size: 645, 492
+  orig: 645, 492
+  offset: 0, 0
+  index: -1
+hm
+  rotate: false
+  xy: 1296, 580
+  size: 179, 151
+  orig: 179, 151
+  offset: 0, 0
+  index: -1
+qingwa_duzi
+  rotate: false
+  xy: 1563, 870
+  size: 120, 118
+  orig: 120, 118
+  offset: 0, 0
+  index: -1
+qingwa_guang
+  rotate: false
+  xy: 1296, 733
+  size: 265, 255
+  orig: 265, 255
+  offset: 0, 0
+  index: -1

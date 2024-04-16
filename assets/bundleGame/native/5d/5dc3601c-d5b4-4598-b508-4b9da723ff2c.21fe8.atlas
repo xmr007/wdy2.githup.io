@@ -1,0 +1,69 @@
+
+duguqiubai.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang_01
+  rotate: false
+  xy: 2, 35
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+daoguang_02
+  rotate: false
+  xy: 242, 35
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+daoguang_03
+  rotate: false
+  xy: 569, 78
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+daoguang_04
+  rotate: false
+  xy: 809, 78
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+daoguang_05
+  rotate: false
+  xy: 1049, 78
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+daoguang_06
+  rotate: false
+  xy: 1289, 78
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+daoguang_07
+  rotate: false
+  xy: 1529, 78
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 2, 2
+  size: 192, 31
+  orig: 192, 31
+  offset: 0, 0
+  index: -1
+jianying
+  rotate: true
+  xy: 2, 194
+  size: 41, 565
+  orig: 41, 565
+  offset: 0, 0
+  index: -1

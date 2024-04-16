@@ -1,0 +1,174 @@
+
+yangguo.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_0
+  rotate: false
+  xy: 180, 773
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_1
+  rotate: false
+  xy: 557, 773
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_10
+  rotate: false
+  xy: 1311, 525
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_11
+  rotate: true
+  xy: 1688, 644
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_12
+  rotate: false
+  xy: 1311, 277
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_13
+  rotate: true
+  xy: 1688, 267
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_14
+  rotate: false
+  xy: 180, 29
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_15
+  rotate: false
+  xy: 557, 29
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_16
+  rotate: false
+  xy: 934, 29
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_2
+  rotate: false
+  xy: 934, 773
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_3
+  rotate: false
+  xy: 1311, 773
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_4
+  rotate: false
+  xy: 180, 525
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_5
+  rotate: false
+  xy: 180, 277
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_6
+  rotate: false
+  xy: 557, 525
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_7
+  rotate: false
+  xy: 557, 277
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_8
+  rotate: false
+  xy: 934, 525
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+Smoke_9
+  rotate: false
+  xy: 934, 277
+  size: 375, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1
+yangguo_jiaozhang
+  rotate: false
+  xy: 1311, 98
+  size: 91, 29
+  orig: 91, 29
+  offset: 0, 0
+  index: -1
+yangguo_shen
+  rotate: false
+  xy: 1311, 129
+  size: 123, 146
+  orig: 123, 146
+  offset: 0, 0
+  index: -1
+yangguo_wenhao
+  rotate: false
+  xy: 1436, 232
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+yangguo_yingzi
+  rotate: false
+  xy: 2, 545
+  size: 176, 474
+  orig: 176, 474
+  offset: 0, 0
+  index: -1
+yangguo_yingzishang
+  rotate: false
+  xy: 2, 100
+  size: 176, 443
+  orig: 176, 443
+  offset: 0, 0
+  index: -1
+yangguo_youshou
+  rotate: false
+  xy: 1936, 917
+  size: 57, 102
+  orig: 57, 102
+  offset: 0, 0
+  index: -1
+yangguo_zuoshou
+  rotate: false
+  xy: 2, 2
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1

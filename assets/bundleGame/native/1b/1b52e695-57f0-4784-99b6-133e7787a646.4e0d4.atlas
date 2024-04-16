@@ -1,0 +1,13 @@
+
+jinggao.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinggao
+  rotate: false
+  xy: 2, 2
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1

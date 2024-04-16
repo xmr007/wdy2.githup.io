@@ -1,0 +1,111 @@
+
+xiaolongnv.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LEINANtx[1]0001
+  rotate: false
+  xy: 2, 1230
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0002
+  rotate: false
+  xy: 2, 616
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0003
+  rotate: false
+  xy: 323, 1230
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0004
+  rotate: false
+  xy: 2, 2
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0005
+  rotate: false
+  xy: 323, 616
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0006
+  rotate: false
+  xy: 644, 1230
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0007
+  rotate: false
+  xy: 323, 2
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0008
+  rotate: false
+  xy: 644, 616
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0009
+  rotate: false
+  xy: 965, 1230
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0010
+  rotate: false
+  xy: 644, 2
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0011
+  rotate: false
+  xy: 965, 616
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0012
+  rotate: false
+  xy: 1286, 1230
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0013
+  rotate: false
+  xy: 965, 2
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0014
+  rotate: false
+  xy: 1286, 616
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1
+LEINANtx[1]0015
+  rotate: false
+  xy: 1607, 1230
+  size: 319, 612
+  orig: 319, 612
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+zhoubotong.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ex_0
+  rotate: false
+  xy: 2, 262
+  size: 285, 223
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+Ex_1
+  rotate: false
+  xy: 2, 37
+  size: 285, 223
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+Ex_2
+  rotate: false
+  xy: 289, 262
+  size: 285, 223
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+Ex_3
+  rotate: false
+  xy: 289, 37
+  size: 285, 223
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+Ex_4
+  rotate: false
+  xy: 576, 262
+  size: 285, 223
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+Ex_5
+  rotate: false
+  xy: 576, 37
+  size: 285, 223
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+Ex_6
+  rotate: false
+  xy: 863, 262
+  size: 285, 223
+  orig: 285, 223
+  offset: 0, 0
+  index: -1
+sanhua
+  rotate: false
+  xy: 2, 2
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+sanhuaguang
+  rotate: false
+  xy: 863, 179
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1

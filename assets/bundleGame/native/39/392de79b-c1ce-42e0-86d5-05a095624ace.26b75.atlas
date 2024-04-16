@@ -1,0 +1,48 @@
+
+guanzi2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanzi
+  rotate: false
+  xy: 118, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+tx01
+  rotate: false
+  xy: 234, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+tx02
+  rotate: false
+  xy: 350, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+tx03
+  rotate: false
+  xy: 466, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+tx04
+  rotate: false
+  xy: 582, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+tx05
+  rotate: false
+  xy: 2, 2
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1

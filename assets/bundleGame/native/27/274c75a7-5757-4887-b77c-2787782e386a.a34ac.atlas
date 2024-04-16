@@ -1,0 +1,41 @@
+
+baotou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baotou01
+  rotate: false
+  xy: 2, 2
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+text_baotou00
+  rotate: false
+  xy: 214, 26
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+text_baotou01
+  rotate: false
+  xy: 310, 26
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+text_baotou02
+  rotate: false
+  xy: 406, 26
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+text_baotou03
+  rotate: false
+  xy: 118, 26
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1

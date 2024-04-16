@@ -1,0 +1,174 @@
+
+longjuanfeng.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longjuan_0
+  rotate: false
+  xy: 2, 608
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_1
+  rotate: false
+  xy: 339, 810
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_10
+  rotate: false
+  xy: 2, 2
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_11
+  rotate: false
+  xy: 339, 204
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_12
+  rotate: false
+  xy: 676, 406
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_13
+  rotate: false
+  xy: 1013, 608
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_14
+  rotate: false
+  xy: 1350, 810
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_15
+  rotate: false
+  xy: 339, 2
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_16
+  rotate: false
+  xy: 676, 204
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_17
+  rotate: false
+  xy: 1013, 406
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_18
+  rotate: false
+  xy: 1350, 608
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_19
+  rotate: false
+  xy: 1687, 810
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_2
+  rotate: false
+  xy: 2, 406
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_20
+  rotate: false
+  xy: 676, 2
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_21
+  rotate: false
+  xy: 1013, 204
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_22
+  rotate: false
+  xy: 1350, 406
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_23
+  rotate: false
+  xy: 1687, 608
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_3
+  rotate: false
+  xy: 339, 608
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_4
+  rotate: false
+  xy: 676, 810
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_5
+  rotate: false
+  xy: 2, 204
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_6
+  rotate: false
+  xy: 339, 406
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_7
+  rotate: false
+  xy: 676, 608
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_8
+  rotate: false
+  xy: 1013, 810
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1
+longjuan_9
+  rotate: false
+  xy: 2, 810
+  size: 335, 200
+  orig: 335, 200
+  offset: 0, 0
+  index: -1

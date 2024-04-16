@@ -1,0 +1,76 @@
+
+jinzhongzhao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhong
+  rotate: false
+  xy: 2, 2
+  size: 244, 333
+  orig: 244, 333
+  offset: 0, 0
+  index: -1
+zhongzhao_1
+  rotate: false
+  xy: 447, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_2
+  rotate: false
+  xy: 646, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_3
+  rotate: false
+  xy: 845, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_4
+  rotate: false
+  xy: 1044, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_5
+  rotate: false
+  xy: 1243, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_6
+  rotate: false
+  xy: 1442, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_7
+  rotate: false
+  xy: 1641, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_8
+  rotate: false
+  xy: 1840, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+zhongzhao_9
+  rotate: false
+  xy: 248, 101
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1

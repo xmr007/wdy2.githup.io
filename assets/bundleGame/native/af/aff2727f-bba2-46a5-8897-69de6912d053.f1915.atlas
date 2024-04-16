@@ -1,0 +1,76 @@
+
+shixue.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explosion_2
+  rotate: false
+  xy: 304, 132
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Explosion_3
+  rotate: false
+  xy: 304, 30
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Explosion_4
+  rotate: false
+  xy: 606, 132
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Explosion_5
+  rotate: false
+  xy: 606, 30
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Explosion_6
+  rotate: false
+  xy: 908, 132
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Explosion_7
+  rotate: false
+  xy: 908, 30
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Explosion_8
+  rotate: false
+  xy: 1210, 132
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 11
+  size: 221, 300
+  orig: 221, 300
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 2, 2
+  size: 7, 140
+  orig: 7, 140
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 304, 21
+  size: 7, 140
+  orig: 7, 140
+  offset: 0, 0
+  index: -1

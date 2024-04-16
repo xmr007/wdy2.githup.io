@@ -1,0 +1,83 @@
+
+huyidao.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Explosion_1
+  rotate: false
+  xy: 2, 1317
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_2
+  rotate: false
+  xy: 2, 905
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_3
+  rotate: false
+  xy: 629, 1317
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_4
+  rotate: false
+  xy: 2, 493
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_5
+  rotate: false
+  xy: 629, 905
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_6
+  rotate: false
+  xy: 1256, 1317
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_7
+  rotate: false
+  xy: 2, 81
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_8
+  rotate: false
+  xy: 629, 493
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+Explosion_9
+  rotate: false
+  xy: 1256, 905
+  size: 625, 410
+  orig: 625, 410
+  offset: 0, 0
+  index: -1
+dao
+  rotate: false
+  xy: 2, 2
+  size: 193, 77
+  orig: 193, 77
+  offset: 0, 0
+  index: -1
+daoying
+  rotate: false
+  xy: 1883, 1314
+  size: 78, 413
+  orig: 78, 413
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,194 @@
+
+zhayaotong.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom_0
+  rotate: false
+  xy: 704, 1558
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_1
+  rotate: true
+  xy: 1406, 1283
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_11
+  rotate: false
+  xy: 429, 704
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_13
+  rotate: true
+  xy: 429, 2
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_15
+  rotate: true
+  xy: 856, 2
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_17
+  rotate: false
+  xy: 1283, 429
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_19
+  rotate: false
+  xy: 1283, 2
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_3
+  rotate: true
+  xy: 2, 581
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_5
+  rotate: false
+  xy: 622, 1131
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_7
+  rotate: false
+  xy: 1324, 856
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_9
+  rotate: false
+  xy: 2, 1558
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+icon_zhangai_cj06
+  rotate: true
+  xy: 1833, 1849
+  size: 134, 135
+  orig: 134, 135
+  offset: 0, 0
+  index: -1
+tongbz_01
+  rotate: true
+  xy: 2, 1327
+  size: 229, 308
+  orig: 229, 308
+  offset: 0, 0
+  index: -1
+tongbz_02
+  rotate: true
+  xy: 312, 1327
+  size: 229, 308
+  orig: 229, 308
+  offset: 0, 0
+  index: -1
+tongbz_03
+  rotate: true
+  xy: 2, 350
+  size: 229, 308
+  orig: 229, 308
+  offset: 0, 0
+  index: -1
+tongbz_04
+  rotate: false
+  xy: 2, 40
+  size: 229, 308
+  orig: 229, 308
+  offset: 0, 0
+  index: -1
+
+zhayaotong2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom_21
+  rotate: false
+  xy: 2, 1283
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_23
+  rotate: false
+  xy: 2, 856
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_25
+  rotate: false
+  xy: 704, 1283
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_27
+  rotate: false
+  xy: 2, 429
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_29
+  rotate: false
+  xy: 704, 856
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_31
+  rotate: true
+  xy: 1406, 1008
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_33
+  rotate: false
+  xy: 2, 2
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_35
+  rotate: false
+  xy: 704, 429
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+boom_37
+  rotate: false
+  xy: 704, 2
+  size: 700, 425
+  orig: 700, 425
+  offset: 0, 0
+  index: -1
+tongbz_05
+  rotate: false
+  xy: 1406, 698
+  size: 229, 308
+  orig: 229, 308
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+zhangsanfeng.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanji_11
+  rotate: false
+  xy: 552, 1176
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_13
+  rotate: false
+  xy: 1102, 1526
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_15
+  rotate: false
+  xy: 2, 476
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_17
+  rotate: false
+  xy: 552, 826
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_19
+  rotate: false
+  xy: 1102, 1176
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_21
+  rotate: true
+  xy: 1652, 1326
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_23
+  rotate: false
+  xy: 2, 126
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_25
+  rotate: false
+  xy: 552, 476
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_27
+  rotate: false
+  xy: 1102, 826
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_29
+  rotate: false
+  xy: 552, 126
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_3
+  rotate: false
+  xy: 2, 1526
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_31
+  rotate: false
+  xy: 1102, 476
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_33
+  rotate: true
+  xy: 1652, 776
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_35
+  rotate: false
+  xy: 1102, 126
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_5
+  rotate: false
+  xy: 2, 1176
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_7
+  rotate: false
+  xy: 552, 1526
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+fanji_9
+  rotate: false
+  xy: 2, 826
+  size: 548, 348
+  orig: 548, 348
+  offset: 0, 0
+  index: -1
+taiji
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

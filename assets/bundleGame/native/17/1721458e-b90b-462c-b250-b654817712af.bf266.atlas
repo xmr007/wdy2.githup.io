@@ -1,0 +1,69 @@
+
+jinlun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dff_2
+  rotate: false
+  xy: 2, 150
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+dff_3
+  rotate: false
+  xy: 132, 298
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+dff_4
+  rotate: false
+  xy: 2, 2
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+dff_5
+  rotate: false
+  xy: 132, 150
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+dff_6
+  rotate: false
+  xy: 262, 298
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+dff_7
+  rotate: false
+  xy: 132, 2
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+dff_8
+  rotate: false
+  xy: 262, 150
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+dff_9
+  rotate: false
+  xy: 2, 298
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+jlun
+  rotate: false
+  xy: 392, 363
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1

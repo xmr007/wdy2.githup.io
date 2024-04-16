@@ -1,0 +1,76 @@
+
+tanyishan.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhong
+  rotate: true
+  xy: 2, 2
+  size: 110, 150
+  orig: 110, 150
+  offset: 0, 0
+  index: -1
+zhongzhao_1
+  rotate: false
+  xy: 245, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_2
+  rotate: false
+  xy: 336, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_3
+  rotate: false
+  xy: 427, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_4
+  rotate: false
+  xy: 518, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_5
+  rotate: false
+  xy: 609, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_6
+  rotate: false
+  xy: 700, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_7
+  rotate: false
+  xy: 791, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_8
+  rotate: false
+  xy: 882, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+zhongzhao_9
+  rotate: false
+  xy: 154, 7
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1

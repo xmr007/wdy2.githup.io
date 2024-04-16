@@ -1,0 +1,216 @@
+
+dongfangbubai.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 153, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 153, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 304, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 153, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 304, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 455, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 304, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 455, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 606, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 455, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 606, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 757, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 606, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 757, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 908, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 757, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 908, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 1059, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 908, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 1059, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 1210, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 1059, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 1210, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 1361, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 1210, 2
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 1361, 165
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 1512, 328
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+qiandao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiandaoliuguang_0
+  rotate: false
+  xy: 2, 557
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_1
+  rotate: false
+  xy: 644, 742
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_10
+  rotate: false
+  xy: 644, 187
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_11
+  rotate: false
+  xy: 1286, 372
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_12
+  rotate: false
+  xy: 644, 2
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_13
+  rotate: false
+  xy: 1286, 187
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_2
+  rotate: false
+  xy: 2, 372
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_3
+  rotate: false
+  xy: 644, 557
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_4
+  rotate: false
+  xy: 1286, 742
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_5
+  rotate: false
+  xy: 2, 187
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_6
+  rotate: false
+  xy: 644, 372
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_7
+  rotate: false
+  xy: 1286, 557
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_8
+  rotate: false
+  xy: 2, 2
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1
+qiandaoliuguang_9
+  rotate: false
+  xy: 2, 742
+  size: 640, 183
+  orig: 640, 183
+  offset: 0, 0
+  index: -1

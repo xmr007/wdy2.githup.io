@@ -1,0 +1,139 @@
+
+duzhangai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke FX_0
+  rotate: false
+  xy: 2, 1612
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_1
+  rotate: false
+  xy: 2, 1290
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_11
+  rotate: false
+  xy: 572, 968
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_13
+  rotate: false
+  xy: 1142, 1290
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_15
+  rotate: true
+  xy: 1712, 1364
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_17
+  rotate: false
+  xy: 2, 324
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_19
+  rotate: false
+  xy: 572, 646
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_2
+  rotate: false
+  xy: 572, 1612
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_20
+  rotate: false
+  xy: 1142, 968
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_22
+  rotate: false
+  xy: 2, 2
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_24
+  rotate: false
+  xy: 572, 324
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_26
+  rotate: false
+  xy: 1142, 646
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_28
+  rotate: true
+  xy: 1712, 794
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_3
+  rotate: false
+  xy: 2, 968
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_30
+  rotate: false
+  xy: 572, 2
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_5
+  rotate: false
+  xy: 572, 1290
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_6
+  rotate: false
+  xy: 1142, 1612
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_8
+  rotate: false
+  xy: 2, 646
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1
+Smoke FX_9
+  rotate: false
+  xy: 1142, 324
+  size: 568, 320
+  orig: 568, 320
+  offset: 0, 0
+  index: -1

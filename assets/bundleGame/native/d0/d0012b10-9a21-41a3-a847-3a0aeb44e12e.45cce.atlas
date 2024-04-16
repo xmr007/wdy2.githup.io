@@ -1,0 +1,62 @@
+
+baojitx.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoji
+  rotate: false
+  xy: 2, 2
+  size: 192, 95
+  orig: 192, 95
+  offset: 0, 0
+  index: -1
+tx_01
+  rotate: false
+  xy: 148, 99
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+tx_02
+  rotate: false
+  xy: 294, 99
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+tx_03
+  rotate: false
+  xy: 440, 99
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+tx_04
+  rotate: false
+  xy: 586, 99
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+tx_05
+  rotate: false
+  xy: 732, 99
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+tx_06
+  rotate: false
+  xy: 878, 99
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+tx_07
+  rotate: false
+  xy: 2, 99
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1

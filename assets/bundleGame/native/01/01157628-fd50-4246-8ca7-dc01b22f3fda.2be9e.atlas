@@ -1,0 +1,132 @@
+
+zhuoshao.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_0
+  rotate: false
+  xy: 2, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_1
+  rotate: false
+  xy: 117, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_10
+  rotate: false
+  xy: 577, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_11
+  rotate: true
+  xy: 538, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_12
+  rotate: false
+  xy: 692, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_13
+  rotate: true
+  xy: 672, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_14
+  rotate: false
+  xy: 807, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_15
+  rotate: false
+  xy: 922, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_16
+  rotate: true
+  xy: 806, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_17
+  rotate: false
+  xy: 1037, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_2
+  rotate: true
+  xy: 2, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_3
+  rotate: false
+  xy: 232, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_4
+  rotate: true
+  xy: 136, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_5
+  rotate: false
+  xy: 347, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_6
+  rotate: true
+  xy: 270, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_7
+  rotate: false
+  xy: 462, 117
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_8
+  rotate: true
+  xy: 404, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+Fire_9
+  rotate: true
+  xy: 940, 2
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1

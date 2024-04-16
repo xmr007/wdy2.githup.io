@@ -1,0 +1,111 @@
+
+saodiseng.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengqiang
+  rotate: false
+  xy: 870, 26
+  size: 107, 229
+  orig: 107, 229
+  offset: 0, 0
+  index: -1
+qiqiang_0
+  rotate: false
+  xy: 2, 512
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_1
+  rotate: false
+  xy: 436, 767
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_10
+  rotate: false
+  xy: 436, 2
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_11
+  rotate: false
+  xy: 870, 257
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_12
+  rotate: false
+  xy: 1304, 512
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_13
+  rotate: true
+  xy: 1738, 588
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_2
+  rotate: false
+  xy: 2, 257
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_3
+  rotate: false
+  xy: 436, 512
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_4
+  rotate: false
+  xy: 870, 767
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_5
+  rotate: false
+  xy: 2, 2
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_6
+  rotate: false
+  xy: 436, 257
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_7
+  rotate: false
+  xy: 870, 512
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_8
+  rotate: false
+  xy: 1304, 767
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1
+qiqiang_9
+  rotate: false
+  xy: 2, 767
+  size: 432, 253
+  orig: 432, 253
+  offset: 0, 0
+  index: -1

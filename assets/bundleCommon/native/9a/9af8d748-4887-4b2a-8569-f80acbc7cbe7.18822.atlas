@@ -1,0 +1,706 @@
+
+xiaoguai.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaoluo
+  rotate: true
+  xy: 2, 312
+  size: 189, 603
+  orig: 189, 603
+  offset: 0, 0
+  index: -1
+diren_wuqi_anqi
+  rotate: true
+  xy: 676, 211
+  size: 66, 14
+  orig: 66, 14
+  offset: 0, 0
+  index: -1
+diren_wuqi_bishou
+  rotate: false
+  xy: 426, 19
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+diren_wuqi_dao
+  rotate: false
+  xy: 1733, 470
+  size: 130, 31
+  orig: 130, 31
+  offset: 0, 0
+  index: -1
+diren_wuqi_futou
+  rotate: true
+  xy: 531, 193
+  size: 117, 59
+  orig: 117, 59
+  offset: 0, 0
+  index: -1
+diren_wuqi_gun
+  rotate: false
+  xy: 755, 362
+  size: 165, 9
+  orig: 165, 9
+  offset: 0, 0
+  index: -1
+diren_wuqi_jian
+  rotate: false
+  xy: 607, 334
+  size: 144, 23
+  orig: 144, 23
+  offset: 0, 0
+  index: -1
+diren_wuqi_qiang
+  rotate: false
+  xy: 2, 10
+  size: 197, 22
+  orig: 197, 22
+  offset: 0, 0
+  index: -1
+shan
+  rotate: true
+  xy: 2, 164
+  size: 146, 527
+  orig: 146, 527
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: false
+  xy: 685, 193
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+shouji01
+  rotate: false
+  xy: 368, 54
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+shouji02
+  rotate: false
+  xy: 1121, 393
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+shouji03
+  rotate: false
+  xy: 1225, 393
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+shouji04
+  rotate: false
+  xy: 1329, 393
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+shouji05
+  rotate: false
+  xy: 1433, 393
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+suolian
+  rotate: true
+  xy: 2, 503
+  size: 7, 2007
+  orig: 7, 2007
+  offset: 0, 0
+  index: -1
+tuyan
+  rotate: false
+  xy: 1588, 297
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+yanlei
+  rotate: true
+  xy: 1591, 325
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+yaokun
+  rotate: false
+  xy: 531, 163
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+yaokuntie
+  rotate: false
+  xy: 201, 2
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+zhasi_1
+  rotate: true
+  xy: 1733, 415
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+zhasi_2
+  rotate: true
+  xy: 1865, 448
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+zhasi_3
+  rotate: true
+  xy: 1865, 393
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+zhasi_4
+  rotate: false
+  xy: 1957, 411
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+zhasi_5
+  rotate: true
+  xy: 607, 279
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+zhasi_6
+  rotate: true
+  xy: 1630, 358
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+zhasi_7
+  rotate: true
+  xy: 1121, 338
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+仇家/datui
+  rotate: false
+  xy: 1914, 345
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+仇家/fa
+  rotate: true
+  xy: 1537, 413
+  size: 88, 117
+  orig: 88, 117
+  offset: 0, 0
+  index: -1
+仇家/pijian
+  rotate: false
+  xy: 592, 208
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+仇家/shoubi
+  rotate: true
+  xy: 278, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+仇家/tou
+  rotate: false
+  xy: 2, 34
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+仇家/xiabai
+  rotate: false
+  xy: 655, 44
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+仇家/xiakuai
+  rotate: true
+  xy: 1697, 311
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+仇家/xiaobi
+  rotate: true
+  xy: 2012, 383
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+仇家/xiaotui
+  rotate: false
+  xy: 609, 99
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+仇家/yaodai
+  rotate: false
+  xy: 2, 4
+  size: 44, 4
+  orig: 44, 4
+  offset: 0, 0
+  index: -1
+仇家/yifu
+  rotate: false
+  xy: 1300, 302
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+刺客/datui
+  rotate: false
+  xy: 1266, 289
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+刺客/shenti
+  rotate: true
+  xy: 1957, 360
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+刺客/shou
+  rotate: true
+  xy: 2012, 321
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+刺客/shoubi
+  rotate: true
+  xy: 328, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+刺客/tou
+  rotate: false
+  xy: 755, 373
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+刺客/weijin
+  rotate: false
+  xy: 1656, 413
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+刺客/xiabai
+  rotate: true
+  xy: 692, 189
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+刺客/xiaotui
+  rotate: true
+  xy: 589, 53
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+刺客/yaodai
+  rotate: true
+  xy: 1108, 327
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+卫兵/datui
+  rotate: true
+  xy: 1446, 298
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+卫兵/shou
+  rotate: false
+  xy: 1630, 324
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+卫兵/shoubi
+  rotate: false
+  xy: 1747, 366
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+卫兵/tou
+  rotate: false
+  xy: 124, 34
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+卫兵/xiabai
+  rotate: false
+  xy: 1213, 337
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+卫兵/xiaotui
+  rotate: false
+  xy: 650, 100
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+卫兵/xiong
+  rotate: true
+  xy: 567, 2
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+卫兵/yaodai
+  rotate: false
+  xy: 1300, 284
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+反贼/datui
+  rotate: false
+  xy: 1780, 367
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+反贼/shenti
+  rotate: true
+  xy: 1454, 330
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+反贼/shoubi
+  rotate: true
+  xy: 1522, 347
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+反贼/tou
+  rotate: false
+  xy: 877, 373
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+反贼/xiabai
+  rotate: false
+  xy: 649, 3
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+反贼/xiaobi
+  rotate: true
+  xy: 1825, 405
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+反贼/xiaotui
+  rotate: true
+  xy: 692, 224
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+反贼/yaodai
+  rotate: true
+  xy: 1722, 361
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+叛军/datui
+  rotate: false
+  xy: 1380, 292
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+叛军/jianbang
+  rotate: true
+  xy: 472, 54
+  size: 108, 48
+  orig: 108, 48
+  offset: 0, 0
+  index: -1
+叛军/shou
+  rotate: false
+  xy: 922, 337
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+叛军/shoubi
+  rotate: true
+  xy: 1814, 373
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+叛军/tou
+  rotate: false
+  xy: 607, 359
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+叛军/xiabai
+  rotate: false
+  xy: 522, 96
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+叛军/xiaotui
+  rotate: true
+  xy: 596, 165
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+叛军/xiong
+  rotate: true
+  xy: 378, 2
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+叛军/yaodai
+  rotate: false
+  xy: 1301, 335
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+杀手/shashoudatui
+  rotate: false
+  xy: 1413, 292
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+杀手/shashoupijian
+  rotate: false
+  xy: 1376, 340
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+杀手/shashoushou
+  rotate: false
+  xy: 984, 337
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+杀手/shashoushoubi
+  rotate: true
+  xy: 1864, 361
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+杀手/shashoutou
+  rotate: false
+  xy: 246, 34
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+杀手/shashouxiabai
+  rotate: false
+  xy: 566, 96
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+杀手/shashouxiaotui
+  rotate: true
+  xy: 1522, 306
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+杀手/shashouyaodai
+  rotate: false
+  xy: 426, 3
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+杀手/shashouyi
+  rotate: false
+  xy: 510, 2
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+武僧/datui
+  rotate: true
+  xy: 1213, 301
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+武僧/shou
+  rotate: false
+  xy: 1046, 337
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+武僧/shoubi
+  rotate: false
+  xy: 1182, 289
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+武僧/tou
+  rotate: false
+  xy: 999, 373
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+武僧/xiabai
+  rotate: true
+  xy: 522, 53
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+武僧/xiaotui
+  rotate: false
+  xy: 2012, 445
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+武僧/xiong
+  rotate: false
+  xy: 699, 266
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+武僧/yaodai
+  rotate: false
+  xy: 1814, 361
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+眩晕/heiquan
+  rotate: false
+  xy: 1213, 276
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+眩晕/heiquancike
+  rotate: true
+  xy: 1722, 312
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+眩晕/heiquanfanzei
+  rotate: false
+  xy: 1522, 281
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+眩晕/heiquanpanjun
+  rotate: true
+  xy: 623, 2
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+眩晕/heiquanshashou
+  rotate: true
+  xy: 1349, 286
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+眩晕/heiquanshouwei
+  rotate: true
+  xy: 1494, 281
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+眩晕/heiquanwuseng
+  rotate: false
+  xy: 1121, 304
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+眩晕/touquan
+  rotate: false
+  xy: 1537, 392
+  size: 91, 19
+  orig: 91, 19
+  offset: 0, 0
+  index: -1
+眩晕/xingxing
+  rotate: false
+  xy: 1266, 270
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+眩晕/xuanyun
+  rotate: true
+  xy: 662, 183
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+眩晕/xuanyun2
+  rotate: true
+  xy: 1570, 287
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
